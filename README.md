@@ -39,6 +39,8 @@ For more detailed information on the hardware, you may review the SMART_GREENHOU
 - **Solar Panels**: Integrated for sustainable power generation.
 - **User Interface**: It’s thought to be a touch-screen.
 
+![System_requirements](https://github.com/user-attachments/assets/212c9eee-e617-4945-8a2f-a66716557b38)
+
 ### 5. **Software**
 
 - **Programming Environment**: The system is programmed using FPWIN program with ladder logic for controlling the processes.
@@ -47,12 +49,17 @@ For more detailed information on the hardware, you may review the SMART_GREENHOU
 
 ### **Control Logic & Decision Diagrams**
 
-Each system has specific rules triggered by sensor inputs. Below are the decision diagrams for various subsystems:
+Each subsystem in the smart greenhouse follows specific rules determined by sensor inputs and outputs. The following decision diagrams illustrate how the logic is implemented for each system, showcasing the conditions that trigger automated actions. To review every decision diagram for each system, please refer to the SMART_GREENHOUSE.pdf file.
 
 **Temperature Control Logic**:
 
+![temp_diagram](https://github.com/user-attachments/assets/50446e15-ea03-4616-8d29-90ddc5729bdb)
+
 **Lighting Control Logic**:
+
+![Lighting_diagram](https://github.com/user-attachments/assets/34a91062-108d-41e4-a1f5-dff6fd2e6a54)
 
 **Fire Alarm System Logic**:
 
-For more information please refer to the SMART_GREENHOUSE.pdf file.
+![fire_diagram](https://github.com/user-attachments/assets/880e78ff-5c3a-430c-9d63-41d1dba332c9)
+
